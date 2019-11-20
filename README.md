@@ -4,4 +4,4 @@
 
 • Both fundamental and technical analysis was done to understand the trends in the market. Thorough data analysis is done to discover useful information.
 
-• For my case study, I chose big tech companies that are publicly listed: google, ford, apple, GM.
+• For my case study, I chose big tech companies that are publicly listed: google, ford, apple, Microsoft.
